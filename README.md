@@ -14,4 +14,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesmashcoder&show_icons=true&theme=dark)
 
 ## 📬 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/thesmashcoder) | [Portfolio](http://celacom.solution) | [GitHub](https://github.com/thesmashcoder)
+[LinkedIn](https://www.linkedin.com/in/thesmashcoder) | [Portfolio](http://celacom.solutions) | [GitHub](https://github.com/thesmashcoder)
