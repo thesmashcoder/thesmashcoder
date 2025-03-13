@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Smash Coder 🚀
+# 👋 Hey, I'm The Smash Coder 🚀
 **Senior Software Engineer | AI & ERP Expert | Fitness-Tech Innovator**
 
 🔹 **Specialties:** AI, ERP (Microsoft Dynamics), Full-Stack Development  
