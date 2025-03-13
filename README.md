@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Smash Coder 🚀
+**Senior Software Engineer | AI & ERP Expert | Fitness-Tech Innovator**
 
-<!--
-**thesmashcoder/thesmashcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Specialties:** AI, ERP (Microsoft Dynamics), Full-Stack Development  
+🔹 **Passionate About:** AI-driven automation, fitness-tech apps, business software solutions  
+🔹 **Freelance Availability:** Yes – [Contact me](mailto:your.email@example.com)  
 
-Here are some ideas to get you started:
+## 🏆 Featured Projects
+🔥 [ERP Customization Framework](https://github.com/thesmashcoder/erp-framework) – Microsoft Dynamics modules  
+💡 [AI-Powered Fitness App](https://github.com/thesmashcoder/ai-fitness) – Smart workout coaching  
+🤖 [Chatbot for Business](https://github.com/thesmashcoder/ai-bot) – AI-driven automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesmashcoder&show_icons=true&theme=dark)
+
+## 📬 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/thesmashcoder) | [Portfolio](http://celacom.solution) | [GitHub](https://github.com/thesmashcoder)
